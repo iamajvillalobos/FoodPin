@@ -105,6 +105,4 @@ class RestaurantModel {
         "British",
         "Thai"
     ]
-
-
 }
